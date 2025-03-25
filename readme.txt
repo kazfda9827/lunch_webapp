@@ -17,3 +17,5 @@ files　アップロードした画像が保存される場所
 1. git clone https://github.com/kazfda9827/lunch_webapp
 2. pip install uvicorn fastapi　Jinja2　python-multipart
 3. uvicorn main:app --reload
+4. http://127.0.0.1:8000にアクセスする
+5.画像をアップロードして、filesフォルダに保存されているか確認する
